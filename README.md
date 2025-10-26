@@ -1,0 +1,4 @@
+com.google.android.apps.kids.familylinkhelper
+tl=true
+rt=true
+st=true
